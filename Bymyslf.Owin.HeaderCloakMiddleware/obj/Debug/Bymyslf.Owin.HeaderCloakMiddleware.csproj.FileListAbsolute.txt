@@ -1,0 +1,10 @@
+c:\users\luis.barbosa\documents\visual studio 2015\Projects\Bymyslf.Owin.HeaderCloakMiddleware\Bymyslf.Owin.HeaderCloakMiddleware\bin\Debug\Bymyslf.Owin.HeaderCloakMiddleware.dll
+c:\users\luis.barbosa\documents\visual studio 2015\Projects\Bymyslf.Owin.HeaderCloakMiddleware\Bymyslf.Owin.HeaderCloakMiddleware\bin\Debug\Bymyslf.Owin.HeaderCloakMiddleware.pdb
+c:\users\luis.barbosa\documents\visual studio 2015\Projects\Bymyslf.Owin.HeaderCloakMiddleware\Bymyslf.Owin.HeaderCloakMiddleware\bin\Debug\Microsoft.Owin.dll
+c:\users\luis.barbosa\documents\visual studio 2015\Projects\Bymyslf.Owin.HeaderCloakMiddleware\Bymyslf.Owin.HeaderCloakMiddleware\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\luis.barbosa\documents\visual studio 2015\Projects\Bymyslf.Owin.HeaderCloakMiddleware\Bymyslf.Owin.HeaderCloakMiddleware\bin\Debug\Owin.dll
+c:\users\luis.barbosa\documents\visual studio 2015\Projects\Bymyslf.Owin.HeaderCloakMiddleware\Bymyslf.Owin.HeaderCloakMiddleware\bin\Debug\Microsoft.Owin.xml
+c:\users\luis.barbosa\documents\visual studio 2015\Projects\Bymyslf.Owin.HeaderCloakMiddleware\Bymyslf.Owin.HeaderCloakMiddleware\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\luis.barbosa\documents\visual studio 2015\Projects\Bymyslf.Owin.HeaderCloakMiddleware\Bymyslf.Owin.HeaderCloakMiddleware\obj\Debug\Bymyslf.Owin.HeaderCloakMiddleware.csprojResolveAssemblyReference.cache
+c:\users\luis.barbosa\documents\visual studio 2015\Projects\Bymyslf.Owin.HeaderCloakMiddleware\Bymyslf.Owin.HeaderCloakMiddleware\obj\Debug\Bymyslf.Owin.HeaderCloakMiddleware.dll
+c:\users\luis.barbosa\documents\visual studio 2015\Projects\Bymyslf.Owin.HeaderCloakMiddleware\Bymyslf.Owin.HeaderCloakMiddleware\obj\Debug\Bymyslf.Owin.HeaderCloakMiddleware.pdb
